@@ -1,0 +1,107 @@
+h1 {
+  font-size: 40px;
+}
+ol {
+  line-height: 2;
+  list-style-type: none;
+}
+ul {
+  line-height: 2;
+  text-align: center;
+  list-style-type: none;
+}
+.navbar{
+background-color: white;
+position: fixed;
+top: 0;
+width: 100%;
+}
+.bodyregular{
+  background-color: #3DB2FF;
+  text-align: center;
+}
+.body {
+  font-size: 20px;
+  background-color: #e83232;
+  color: black;
+  line-height: 2;
+  text-align: center;
+}
+
+.complaintinvitatition {
+  font-size: 20px;
+  line-height: 2;
+}
+.navbar li {
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+.banner {
+  background-color: #4d00ff;
+  color: white;
+  margin-top: 50px;
+  text-align: center;
+  padding: 100px; 0px;
+}
+a.blue {
+  color: blue;
+}
+a.green {
+  color: green;
+}
+.bold {
+  font-weight: 900;
+}
+.avatar {
+  background-image: url('../images/Gritty1.png');
+  background-size: cover;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+}
+
+a:hover {
+  background-color: #b3ff1a;
+}
+
+#Gritty {
+  height: 300px;
+  width:300px;
+  filter: drop-shadow(3px 2px 2px black);
+}
+.gritter-section {
+  padding: 20px 50px;
+}
+#Gritty2 {
+  color: #4d00FF;
+  font-size: 60px;
+}
+#greets ul {
+  list-style-type: none;
+}
+#break {
+  margin-top: 30px;
+}
+#topcomplaints {
+  text-align: center;
+}
